@@ -1,1 +1,4 @@
-# AntiRecoil
+- Tutorial on how to use: https://streamable.com/ac3rvm
+- If you need any help check out https://discord.gg/visuality
+- ------
+- I made this as a project to help me learn how to code 🙂
